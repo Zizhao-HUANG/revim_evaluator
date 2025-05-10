@@ -30,19 +30,6 @@
 
 本项目使用 Python 标准库 Tkinter，通常无需额外安装依赖。
 
-1.  **克隆仓库:**
-    ```bash
-    git clone https://github.com/yourusername/rvcum.git
-    cd rvcum
-    ```
-    *(请将 `yourusername/rvcum.git` 替换为实际的仓库地址)*
-
-2.  **运行程序:**
-    ```bash
-    python main.py
-    ```
-    *(如果您的 Python 可执行文件不是 `python`，请替换为 `python3` 或其他命令)*
-
 程序启动后将显示图形界面。
 
 ## 使用指南
