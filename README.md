@@ -1,4 +1,4 @@
-# ReVIM: 恋爱关系持续性综合评估模型 (Python GUI 程序)
+# ReVIM Version 2: 恋爱关系持续性综合评估模型 (Python GUI 程序)
 
 用多学科视角，理性分析你的亲密关系是否值得持续。
 
